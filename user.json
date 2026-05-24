@@ -1,0 +1,50 @@
+[
+  {
+    "email": "hmental399@gmail.com",
+    "password": "$2b$12$WtK0nxTge9iHEODW9nLLmO3H2sfkMtvWaIkk0zLoEgCeDiq4CVaMK",
+    "last_active": "2026-01-23T16:01:02.365685",
+    "mail_sent": true
+  },
+  {
+    "email": "gayatrigunjkar2304@gmail.com",
+    "password": "$2b$12$nm21WyX7j5rEQkYtEiXHE.4e6Tly.tpAA7WYCVXV6.Thp1BrWFJ0.",
+    "last_active": "2026-01-24T07:48:41.720276",
+    "mail_sent": true
+  },
+  {
+    "email": "gayatrigunjkar2110@gmail.com",
+    "password": "$2b$12$PjAzHvWFjwJEaDrajnJ5auQn8ZiZZs5FS7QhGZp/2HFkAIM8Ccanm",
+    "last_active": null,
+    "mail_sent": false
+  },
+  {
+    "email": "demo2@gmail.com",
+    "password": "$2b$12$D2nbWBOB/Wg6hoPtkkWdXumRmDcXfPgsXxFYUibv/b19UhqFoakGq",
+    "last_active": "2026-02-03T21:12:41.089198",
+    "mail_sent": true
+  },
+  {
+    "email": "demo3@gmail.com",
+    "password": "$2b$12$KcTefnO5CqDEaG1PpMoHwevzQUXBRWoI80RlKRQ6mm6KrDmHy9zNi",
+    "last_active": "2026-02-03T21:33:51.335177",
+    "mail_sent": true
+  },
+  {
+    "email": "demo@5gmail.com",
+    "password": "$2b$12$pRx3FasemvbdPuURHnURB.waf/OHRhK2jAIsKrDlRw8T3XzAtZMJq",
+    "last_active": null,
+    "mail_sent": false
+  },
+  {
+    "email": "demo5@gmail.com",
+    "password": "$2b$12$9myAlYDd7n7HLx6kRqTCRuEV4VGWZEgl57FFsOKrpsW7MEFjjNfYS",
+    "last_active": "2026-03-21T17:36:35.147403",
+    "mail_sent": false
+  },
+  {
+    "email": "bharat.jadhav2304@gmail.com",
+    "password": "$2b$12$Irix8IlH..7EBbQSx39MUewGj84ioc0LdorI.F7HK8mdLc40a6z7u",
+    "last_active": "2026-02-07T19:46:13.762096",
+    "mail_sent": true
+  }
+]
